@@ -1,8 +1,12 @@
 # Jarkom_Modul4_Lapres_B03
 
+##VLSM
+![VLSM](modul4/VLSM.png)
+![VLSM_Tree](modul4/VLSM_Tree.png)
+
 ## CIDR 
-![CIDR](modul4/CIDR.PNG)
-![CIDR_Tree](modul4/CIDR_Tree.PNG)
+![CIDR](modul4/CIDR.png)
+![CIDR_Tree](modul4/CIDR_Tree.png)
 
 ### 1. Membuat topologi jaringan 
 ``` #switch
