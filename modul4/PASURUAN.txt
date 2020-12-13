@@ -1,0 +1,19 @@
+#Switch2
+auto eth0
+iface eth0 inet static
+address 192.168.128.2
+netmask 255.255.255.252
+
+
+#Switch3
+auto eth1
+iface eth1 inet static
+address 192.168.80.1
+netmask 255.255.255.252
+
+
+#Switch19
+auto eth2
+iface eth2 inet static
+address 192.168.96.1
+netmask 255.255.252.0
